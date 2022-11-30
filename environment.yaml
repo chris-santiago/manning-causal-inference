@@ -1,0 +1,13 @@
+name: causal
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - python=3.9
+  - statsmodels
+  - jupyterlab
+  - pyarrow
+  - seaborn
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/causal
