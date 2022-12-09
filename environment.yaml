@@ -10,4 +10,5 @@ dependencies:
   - jupyterlab
   - pyarrow
   - seaborn
+  - scikit-learn
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/causal
