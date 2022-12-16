@@ -11,4 +11,5 @@ dependencies:
   - pyarrow
   - seaborn
   - scikit-learn
+  - lightgbm
 prefix: /opt/homebrew/Caskroom/miniforge/base/envs/causal
